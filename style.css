@@ -86,26 +86,28 @@ nav ul li a:hover::after{
 }
 
 .about-col-1{
-    flex-basis: 35%;
+    flex-basis: 25%;
 
 }
 .about-col-1 img{
-    width: 50%;
+    height: 100%;
+    width: 80%;
     border-radius: 15px;
 }
 
 .about-col-2{
-    flex-basis: 60%;
+    flex-basis: 65%;
 }
 .sub-title{
-    font-size: 20px;
-    font-weight: 600;
+    font-size: 35px;
+    font-weight: 500;
     color: #fff;
 }
 
-.sub-heading{
+.description{
     font-size: 20px;
-    color: #fff;
+    font-weight: 50;
+    color: #c9c9c98f;
 }
 /* ---portfolio--- */
 #portfolio{
